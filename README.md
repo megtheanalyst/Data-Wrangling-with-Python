@@ -1,5 +1,4 @@
-Data Wrangling
-Estimated time needed: 30 minutes
+Data Wrangling With Python
 
 Objectives
 lab used- Colab
