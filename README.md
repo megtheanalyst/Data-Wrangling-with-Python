@@ -1,44 +1,45 @@
 Data Wrangling With Python
-
 Objectives
-lab used- Colab
+This lab uses Colab to demonstrate data wrangling techniques in Python. The objectives include:
 
-Handle missing values
-Correct data format
-Standardize and normalize data
+Handling missing values
+Correcting data format
+Standardizing and normalizing data
 Table of Contents
 Identify and handle missing values
+
 Identify missing values
 Deal with missing values
 Correct data format
+
 Data standardization
+
 Data normalization (centering/scaling)
+
 Binning
+
 Indicator variable
+
 What is the purpose of data wrangling?
-Data wrangling is the process of converting data from the initial format to a format that may be better for analysis.
-
-
+Data wrangling is the process of converting data from its initial format to a format that is better suited for analysis.
 
 Data Standardization
-Data is usually collected from different agencies in different formats. (Data standardization is also a term for a particular type of data normalization where we subtract the mean and divide by the standard deviation.)
-
-What is standardization?
-
-Standardization is the process of transforming data into a common format, allowing the researcher to make the meaningful comparison.
-
-
+Data is often collected from different sources in various formats. Data standardization refers to the process of transforming data into a common format, enabling meaningful comparisons and analysis. In some cases, data standardization involves subtracting the mean and dividing by the standard deviation.
 
 Data Normalization
-Why normalization?
-
-Normalization is the process of transforming values of several variables into a similar range. Typical normalizations include scaling the variable so the variable average is 0, scaling the variable so the variance is 1, or scaling the variable so the variable values range from 0 to 1.
-
-
+Why is normalization important? Normalization is the process of transforming the values of multiple variables into a similar range. This is useful for comparing variables with different scales. Common normalization techniques include scaling the variable so that the average is 0, scaling the variable so that the variance is 1, or scaling the variable so that the values range from 0 to 1.
 
 Binning
-Why binning?
-Binning is a process of transforming continuous numerical variables into discrete categorical 'bins' for grouped analysis.
+Why do we use binning? Binning is a process of converting continuous numerical variables into discrete categorical "bins" for grouped analysis. Binning allows for the analysis of trends and patterns within specific ranges or categories.
+
+Please refer to the provided lab materials in Colab for detailed examples and implementation of these data wrangling techniques using Python.
+
+
+
+
+
+
+
 
 
 
