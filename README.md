@@ -1,5 +1,7 @@
 Data Wrangling With Python
+
 Objectives
+
 This lab uses Colab to demonstrate data wrangling techniques in Python. The objectives include:
 
 Handling missing values
