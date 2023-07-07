@@ -4,23 +4,19 @@ Objectives
 
 This lab uses Colab to demonstrate data wrangling techniques in Python. The objectives include:
 
-Handling missing values
-Correcting data format
-Standardizing and normalizing data
-Table of Contents
-Identify and handle missing values
+1. Handling missing values
+2. Correcting data format
+3. Standardizing and normalizing data
 
-Identify missing values
-Deal with missing values
-Correct data format
-
-Data standardization
-
-Data normalization (centering/scaling)
-
-Binning
-
-Indicator variable
+TABLE OF CONTENTS
+1. Identify and handle missing values
+   - Identify missing values
+   - Deal with missing values
+2. Correct data format
+3. Data standardization
+4. Data normalization (centering/scaling)
+5. Binning
+6. Indicator variable
 
 What is the purpose of data wrangling?
 Data wrangling is the process of converting data from its initial format to a format that is better suited for analysis.
